@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://loaclhost:3306/bank-soft
+    username: root
+    password: 20021225
